@@ -1,0 +1,511 @@
+State,Cause Name,Average Death
+Alabama,Heart disease,12660.16
+Alabama,Cancer,10062.63
+Alabama,Stroke,2865.16
+Alabama,CLRD,2698.0
+Alabama,Unintentional injuries,2414.26
+Alabama,Alzheimer's disease,1536.84
+Alabama,Diabetes,1332.42
+Alabama,Kidney disease,1046.26
+Alabama,Influenza and pneumonia,1036.42
+Alabama,Suicide,635.63
+Alaska,Cancer,839.89
+Alaska,Heart disease,680.05
+Alaska,Unintentional injuries,354.95
+Alaska,CLRD,173.53
+Alaska,Stroke,173.53
+Alaska,Suicide,151.58
+Alaska,Diabetes,101.05
+Alaska,Alzheimer's disease,68.53
+Alaska,Influenza and pneumonia,52.58
+Alaska,Kidney disease,41.21
+Arizona,Heart disease,10813.74
+Arizona,Cancer,10366.63
+Arizona,Unintentional injuries,3060.21
+Arizona,CLRD,2975.37
+Arizona,Stroke,2355.74
+Arizona,Alzheimer's disease,2045.11
+Arizona,Diabetes,1436.26
+Arizona,Suicide,1030.79
+Arizona,Influenza and pneumonia,1004.42
+Arizona,Kidney disease,521.11
+Arkansas,Heart disease,7718.0
+Arkansas,Cancer,6399.53
+Arkansas,Stroke,1857.79
+Arkansas,CLRD,1775.63
+Arkansas,Unintentional injuries,1422.47
+Arkansas,Alzheimer's disease,867.32
+Arkansas,Diabetes,853.05
+Arkansas,Influenza and pneumonia,754.11
+Arkansas,Kidney disease,640.95
+Arkansas,Suicide,442.84
+California,Heart disease,63398.58
+California,Cancer,55907.11
+California,Stroke,15495.05
+California,CLRD,13123.58
+California,Unintentional injuries,10945.32
+California,Alzheimer's disease,9614.53
+California,Diabetes,7545.47
+California,Influenza and pneumonia,6736.89
+California,Suicide,3653.89
+California,Kidney disease,2751.21
+Colorado,Cancer,6824.89
+Colorado,Heart disease,6414.53
+Colorado,Unintentional injuries,2159.21
+Colorado,CLRD,2126.16
+Colorado,Stroke,1716.95
+Colorado,Alzheimer's disease,1205.68
+Colorado,Suicide,874.11
+Colorado,Diabetes,761.21
+Colorado,Influenza and pneumonia,644.21
+Colorado,Kidney disease,434.84
+Connecticut,Heart disease,7672.63
+Connecticut,Cancer,6891.32
+Connecticut,Stroke,1542.79
+Connecticut,CLRD,1425.84
+Connecticut,Unintentional injuries,1390.74
+Connecticut,Alzheimer's disease,768.42
+Connecticut,Influenza and pneumonia,744.79
+Connecticut,Diabetes,689.84
+Connecticut,Kidney disease,569.79
+Connecticut,Suicide,324.32
+Delaware,Heart disease,1917.47
+Delaware,Cancer,1858.0
+Delaware,CLRD,414.89
+Delaware,Stroke,414.84
+Delaware,Unintentional injuries,358.68
+Delaware,Diabetes,215.32
+Delaware,Alzheimer's disease,194.74
+Delaware,Influenza and pneumonia,152.21
+Delaware,Kidney disease,151.89
+Delaware,Suicide,103.11
+District of Columbia,Heart disease,1448.37
+District of Columbia,Cancer,1152.42
+District of Columbia,Stroke,232.32
+District of Columbia,Unintentional injuries,225.58
+District of Columbia,Diabetes,166.0
+District of Columbia,CLRD,144.58
+District of Columbia,Alzheimer's disease,112.05
+District of Columbia,Influenza and pneumonia,86.79
+District of Columbia,Kidney disease,68.53
+District of Columbia,Suicide,36.32
+Florida,Heart disease,45400.11
+Florida,Cancer,41193.84
+Florida,CLRD,10107.0
+Florida,Stroke,9741.89
+Florida,Unintentional injuries,8854.53
+Florida,Diabetes,5068.58
+Florida,Alzheimer's disease,4833.47
+Florida,Influenza and pneumonia,2764.42
+Florida,Kidney disease,2711.84
+Florida,Suicide,2664.95
+Georgia,Heart disease,16875.11
+Georgia,Cancer,15160.79
+Georgia,Stroke,4044.16
+Georgia,Unintentional injuries,3792.21
+Georgia,CLRD,3717.79
+Georgia,Alzheimer's disease,2153.79
+Georgia,Diabetes,1832.16
+Georgia,Kidney disease,1603.11
+Georgia,Influenza and pneumonia,1531.37
+Georgia,Suicide,1084.74
+Hawaii,Heart disease,2405.47
+Hawaii,Cancer,2211.21
+Hawaii,Stroke,693.95
+Hawaii,Unintentional injuries,444.37
+Hawaii,Influenza and pneumonia,328.32
+Hawaii,CLRD,302.74
+Hawaii,Diabetes,250.95
+Hawaii,Alzheimer's disease,236.11
+Hawaii,Kidney disease,177.95
+Hawaii,Suicide,157.84
+Idaho,Heart disease,2562.05
+Idaho,Cancer,2476.16
+Idaho,CLRD,710.84
+Idaho,Stroke,682.26
+Idaho,Unintentional injuries,674.47
+Idaho,Alzheimer's disease,396.16
+Idaho,Diabetes,352.26
+Idaho,Suicide,265.26
+Idaho,Influenza and pneumonia,239.05
+Idaho,Kidney disease,136.95
+Illinois,Heart disease,27249.05
+Illinois,Cancer,24446.0
+Illinois,Stroke,6122.79
+Illinois,CLRD,5187.0
+Illinois,Unintentional injuries,4415.89
+Illinois,Alzheimer's disease,2881.74
+Illinois,Diabetes,2864.37
+Illinois,Influenza and pneumonia,2597.58
+Illinois,Kidney disease,2417.0
+Illinois,Suicide,1189.05
+Indiana,Heart disease,14424.47
+Indiana,Cancer,13079.68
+Indiana,CLRD,3648.21
+Indiana,Stroke,3328.84
+Indiana,Unintentional injuries,2662.05
+Indiana,Alzheimer's disease,1855.74
+Indiana,Diabetes,1761.16
+Indiana,Kidney disease,1308.37
+Indiana,Influenza and pneumonia,1167.79
+Indiana,Suicide,835.16
+Iowa,Heart disease,7352.63
+Iowa,Cancer,6422.37
+Iowa,CLRD,1753.89
+Iowa,Stroke,1743.0
+Iowa,Unintentional injuries,1284.37
+Iowa,Alzheimer's disease,1166.47
+Iowa,Diabetes,776.37
+Iowa,Influenza and pneumonia,768.0
+Iowa,Suicide,370.05
+Iowa,Kidney disease,293.58
+Kansas,Heart disease,5911.79
+Kansas,Cancer,5399.74
+Kansas,CLRD,1556.16
+Kansas,Stroke,1531.42
+Kansas,Unintentional injuries,1257.79
+Kansas,Alzheimer's disease,789.89
+Kansas,Diabetes,697.84
+Kansas,Influenza and pneumonia,644.0
+Kansas,Kidney disease,546.26
+Kansas,Suicide,396.95
+Kentucky,Heart disease,10561.89
+Kentucky,Cancer,9690.63
+Kentucky,CLRD,2779.47
+Kentucky,Unintentional injuries,2458.37
+Kentucky,Stroke,2222.95
+Kentucky,Alzheimer's disease,1285.26
+Kentucky,Diabetes,1241.32
+Kentucky,Influenza and pneumonia,1000.79
+Kentucky,Kidney disease,920.53
+Kentucky,Suicide,629.21
+Louisiana,Heart disease,10746.42
+Louisiana,Cancer,9291.95
+Louisiana,Unintentional injuries,2331.89
+Louisiana,Stroke,2310.42
+Louisiana,CLRD,1918.16
+Louisiana,Diabetes,1458.79
+Louisiana,Alzheimer's disease,1389.32
+Louisiana,Kidney disease,1104.68
+Louisiana,Influenza and pneumonia,880.53
+Louisiana,Suicide,557.63
+Maine,Cancer,3180.0
+Maine,Heart disease,2927.53
+Maine,CLRD,832.37
+Maine,Stroke,706.26
+Maine,Unintentional injuries,609.37
+Maine,Alzheimer's disease,482.58
+Maine,Diabetes,380.26
+Maine,Influenza and pneumonia,280.89
+Maine,Kidney disease,242.74
+Maine,Suicide,194.53
+Maryland,Heart disease,11484.05
+Maryland,Cancer,10419.37
+Maryland,Stroke,2554.37
+Maryland,CLRD,1975.0
+Maryland,Unintentional injuries,1572.84
+Maryland,Diabetes,1339.84
+Maryland,Influenza and pneumonia,1058.16
+Maryland,Alzheimer's disease,942.84
+Maryland,Kidney disease,720.26
+Maryland,Suicide,524.26
+Massachusetts,Cancer,13208.68
+Massachusetts,Heart disease,13105.21
+Massachusetts,Stroke,2866.53
+Massachusetts,CLRD,2650.47
+Massachusetts,Unintentional injuries,2166.47
+Massachusetts,Alzheimer's disease,1656.89
+Massachusetts,Influenza and pneumonia,1640.42
+Massachusetts,Kidney disease,1271.37
+Massachusetts,Diabetes,1243.26
+Massachusetts,Suicide,522.79
+Michigan,Heart disease,24985.26
+Michigan,Cancer,20250.95
+Michigan,Stroke,4991.16
+Michigan,CLRD,4905.0
+Michigan,Unintentional injuries,3870.95
+Michigan,Diabetes,2750.58
+Michigan,Alzheimer's disease,2701.84
+Michigan,Influenza and pneumonia,1845.95
+Michigan,Kidney disease,1657.74
+Michigan,Suicide,1188.63
+Minnesota,Cancer,9374.58
+Minnesota,Heart disease,7923.21
+Minnesota,Stroke,2354.05
+Minnesota,Unintentional injuries,2132.26
+Minnesota,CLRD,2055.53
+Minnesota,Alzheimer's disease,1445.26
+Minnesota,Diabetes,1186.68
+Minnesota,Influenza and pneumonia,736.95
+Minnesota,Kidney disease,689.58
+Minnesota,Suicide,594.47
+Mississippi,Heart disease,8165.42
+Mississippi,Cancer,6235.58
+Mississippi,Unintentional injuries,1716.47
+Mississippi,Stroke,1669.42
+Mississippi,CLRD,1577.26
+Mississippi,Alzheimer's disease,867.05
+Mississippi,Diabetes,844.21
+Mississippi,Influenza and pneumonia,695.21
+Mississippi,Kidney disease,682.95
+Mississippi,Suicide,370.68
+Missouri,Heart disease,15111.21
+Missouri,Cancer,12568.74
+Missouri,CLRD,3357.26
+Missouri,Stroke,3316.21
+Missouri,Unintentional injuries,2957.26
+Missouri,Alzheimer's disease,1712.53
+Missouri,Diabetes,1483.63
+Missouri,Influenza and pneumonia,1392.26
+Missouri,Kidney disease,1213.95
+Missouri,Suicide,852.63
+Montana,Heart disease,1959.0
+Montana,Cancer,1956.11
+Montana,CLRD,619.58
+Montana,Unintentional injuries,562.26
+Montana,Stroke,501.21
+Montana,Alzheimer's disease,260.26
+Montana,Diabetes,253.58
+Montana,Suicide,214.89
+Montana,Influenza and pneumonia,190.26
+Montana,Kidney disease,119.89
+Nebraska,Heart disease,3643.0
+Nebraska,Cancer,3417.74
+Nebraska,CLRD,994.0
+Nebraska,Stroke,922.32
+Nebraska,Unintentional injuries,717.68
+Nebraska,Alzheimer's disease,520.84
+Nebraska,Diabetes,451.47
+Nebraska,Influenza and pneumonia,356.53
+Nebraska,Kidney disease,255.05
+Nebraska,Suicide,203.37
+Nevada,Heart disease,5034.74
+Nevada,Cancer,4425.11
+Nevada,CLRD,1278.95
+Nevada,Unintentional injuries,1080.95
+Nevada,Stroke,939.68
+Nevada,Suicide,499.68
+Nevada,Influenza and pneumonia,473.47
+Nevada,Kidney disease,389.84
+Nevada,Alzheimer's disease,382.0
+Nevada,Diabetes,372.68
+New Hampshire,Cancer,2594.89
+New Hampshire,Heart disease,2553.89
+New Hampshire,CLRD,637.16
+New Hampshire,Unintentional injuries,541.53
+New Hampshire,Stroke,526.26
+New Hampshire,Alzheimer's disease,364.53
+New Hampshire,Diabetes,296.32
+New Hampshire,Influenza and pneumonia,218.37
+New Hampshire,Suicide,181.0
+New Hampshire,Kidney disease,158.68
+New Jersey,Heart disease,19972.26
+New Jersey,Cancer,17057.74
+New Jersey,Stroke,3617.58
+New Jersey,CLRD,3084.11
+New Jersey,Unintentional injuries,2726.05
+New Jersey,Diabetes,2253.32
+New Jersey,Alzheimer's disease,1820.32
+New Jersey,Kidney disease,1569.42
+New Jersey,Influenza and pneumonia,1498.11
+New Jersey,Suicide,644.37
+New Mexico,Heart disease,3404.95
+New Mexico,Cancer,3254.26
+New Mexico,Unintentional injuries,1271.32
+New Mexico,CLRD,953.74
+New Mexico,Stroke,773.11
+New Mexico,Diabetes,607.74
+New Mexico,Suicide,398.0
+New Mexico,Alzheimer's disease,375.11
+New Mexico,Influenza and pneumonia,340.32
+New Mexico,Kidney disease,252.68
+New York,Heart disease,49430.11
+New York,Cancer,35842.0
+New York,CLRD,6873.21
+New York,Stroke,6670.0
+New York,Unintentional injuries,5402.74
+New York,Influenza and pneumonia,4916.63
+New York,Diabetes,3925.95
+New York,Kidney disease,2349.37
+New York,Alzheimer's disease,2321.11
+New York,Suicide,1433.11
+North Carolina,Heart disease,17997.63
+North Carolina,Cancer,17578.11
+North Carolina,Stroke,4869.37
+North Carolina,CLRD,4390.37
+North Carolina,Unintentional injuries,4262.05
+North Carolina,Alzheimer's disease,2659.58
+North Carolina,Diabetes,2335.47
+North Carolina,Influenza and pneumonia,1840.47
+North Carolina,Kidney disease,1645.68
+North Carolina,Suicide,1155.63
+North Dakota,Heart disease,1474.47
+North Dakota,Cancer,1306.89
+North Dakota,Stroke,385.95
+North Dakota,Alzheimer's disease,326.05
+North Dakota,CLRD,313.89
+North Dakota,Unintentional injuries,300.84
+North Dakota,Diabetes,200.32
+North Dakota,Influenza and pneumonia,150.26
+North Dakota,Suicide,100.95
+North Dakota,Kidney disease,87.68
+Ohio,Heart disease,28535.58
+Ohio,Cancer,25143.11
+Ohio,CLRD,6545.21
+Ohio,Stroke,6240.79
+Ohio,Unintentional injuries,5138.0
+Ohio,Diabetes,3656.0
+Ohio,Alzheimer's disease,3622.11
+Ohio,Influenza and pneumonia,2262.11
+Ohio,Kidney disease,1965.11
+Ohio,Suicide,1378.84
+Oklahoma,Heart disease,10175.84
+Oklahoma,Cancer,7716.05
+Oklahoma,CLRD,2429.89
+Oklahoma,Unintentional injuries,2113.42
+Oklahoma,Stroke,2110.0
+Oklahoma,Diabetes,1178.42
+Oklahoma,Alzheimer's disease,1033.42
+Oklahoma,Influenza and pneumonia,816.16
+Oklahoma,Suicide,603.63
+Oklahoma,Kidney disease,568.63
+Oregon,Cancer,7516.42
+Oregon,Heart disease,6724.42
+Oregon,Stroke,2124.16
+Oregon,CLRD,1907.42
+Oregon,Unintentional injuries,1616.32
+Oregon,Alzheimer's disease,1289.16
+Oregon,Diabetes,1077.58
+Oregon,Suicide,631.26
+Oregon,Influenza and pneumonia,527.84
+Oregon,Kidney disease,344.68
+Pennsylvania,Heart disease,34600.0
+Pennsylvania,Cancer,29199.32
+Pennsylvania,Stroke,7377.68
+Pennsylvania,CLRD,6290.68
+Pennsylvania,Unintentional injuries,5938.37
+Pennsylvania,Diabetes,3603.05
+Pennsylvania,Alzheimer's disease,3365.95
+Pennsylvania,Kidney disease,2918.74
+Pennsylvania,Influenza and pneumonia,2760.95
+Pennsylvania,Suicide,1574.37
+Rhode Island,Heart disease,2661.74
+Rhode Island,Cancer,2281.53
+Rhode Island,CLRD,494.58
+Rhode Island,Stroke,477.58
+Rhode Island,Unintentional injuries,449.63
+Rhode Island,Alzheimer's disease,325.32
+Rhode Island,Diabetes,243.21
+Rhode Island,Influenza and pneumonia,241.0
+Rhode Island,Kidney disease,150.95
+Rhode Island,Suicide,103.21
+South Carolina,Heart disease,9548.0
+South Carolina,Cancer,9129.58
+South Carolina,Stroke,2564.84
+South Carolina,Unintentional injuries,2306.37
+South Carolina,CLRD,2247.53
+South Carolina,Alzheimer's disease,1503.26
+South Carolina,Diabetes,1200.53
+South Carolina,Kidney disease,809.37
+South Carolina,Influenza and pneumonia,769.84
+South Carolina,Suicide,594.0
+South Dakota,Heart disease,1778.68
+South Dakota,Cancer,1616.47
+South Dakota,Stroke,451.53
+South Dakota,CLRD,428.68
+South Dakota,Unintentional injuries,410.63
+South Dakota,Alzheimer's disease,331.16
+South Dakota,Diabetes,229.63
+South Dakota,Influenza and pneumonia,197.16
+South Dakota,Suicide,128.21
+South Dakota,Kidney disease,85.26
+Tennessee,Heart disease,15188.74
+Tennessee,Cancer,13267.95
+Tennessee,Stroke,3551.42
+Tennessee,CLRD,3474.32
+Tennessee,Unintentional injuries,3343.89
+Tennessee,Alzheimer's disease,2163.74
+Tennessee,Diabetes,1760.37
+Tennessee,Influenza and pneumonia,1562.74
+Tennessee,Suicide,907.42
+Tennessee,Kidney disease,852.21
+Texas,Heart disease,40993.53
+Texas,Cancer,36135.37
+Texas,Stroke,9915.11
+Texas,Unintentional injuries,9027.89
+Texas,CLRD,8657.21
+Texas,Alzheimer's disease,5353.74
+Texas,Diabetes,5299.89
+Texas,Influenza and pneumonia,3335.79
+Texas,Kidney disease,3180.05
+Texas,Suicide,2716.95
+Utah,Heart disease,3090.63
+Utah,Cancer,2679.32
+Utah,Unintentional injuries,904.58
+Utah,Stroke,827.47
+Utah,CLRD,650.63
+Utah,Diabetes,531.11
+Utah,Alzheimer's disease,464.63
+Utah,Suicide,445.11
+Utah,Influenza and pneumonia,369.63
+Utah,Kidney disease,248.58
+Vermont,Cancer,1296.58
+Vermont,Heart disease,1281.74
+Vermont,CLRD,333.32
+Vermont,Unintentional injuries,295.21
+Vermont,Stroke,281.58
+Vermont,Alzheimer's disease,220.63
+Vermont,Diabetes,162.32
+Vermont,Suicide,94.26
+Vermont,Influenza and pneumonia,87.32
+Vermont,Kidney disease,46.95
+Virginia,Heart disease,14168.11
+Virginia,Cancer,14093.53
+Virginia,Stroke,3583.42
+Virginia,CLRD,2975.47
+Virginia,Unintentional injuries,2836.11
+Virginia,Alzheimer's disease,1675.05
+Virginia,Diabetes,1654.89
+Virginia,Kidney disease,1392.21
+Virginia,Influenza and pneumonia,1384.79
+Virginia,Suicide,950.63
+Washington,Cancer,11586.89
+Washington,Heart disease,10928.53
+Washington,Stroke,3001.26
+Washington,CLRD,2832.05
+Washington,Alzheimer's disease,2752.05
+Washington,Unintentional injuries,2624.68
+Washington,Diabetes,1561.21
+Washington,Suicide,933.79
+Washington,Influenza and pneumonia,852.21
+Washington,Kidney disease,421.79
+West Virginia,Heart disease,5391.79
+West Virginia,Cancer,4703.58
+West Virginia,CLRD,1436.0
+West Virginia,Unintentional injuries,1210.37
+West Virginia,Stroke,1142.0
+West Virginia,Diabetes,793.16
+West Virginia,Alzheimer's disease,552.95
+West Virginia,Influenza and pneumonia,462.58
+West Virginia,Kidney disease,455.11
+West Virginia,Suicide,295.42
+Wisconsin,Heart disease,11862.47
+Wisconsin,Cancer,11083.42
+Wisconsin,Stroke,2889.42
+Wisconsin,Unintentional injuries,2644.37
+Wisconsin,CLRD,2512.37
+Wisconsin,Alzheimer's disease,1650.26
+Wisconsin,Diabetes,1280.79
+Wisconsin,Influenza and pneumonia,1096.95
+Wisconsin,Kidney disease,935.84
+Wisconsin,Suicide,727.16
+Wyoming,Heart disease,982.58
+Wyoming,Cancer,923.47
+Wyoming,CLRD,323.0
+Wyoming,Unintentional injuries,311.21
+Wyoming,Stroke,223.63
+Wyoming,Alzheimer's disease,131.16
+Wyoming,Diabetes,119.32
+Wyoming,Suicide,118.37
+Wyoming,Influenza and pneumonia,117.11
+Wyoming,Kidney disease,61.74
