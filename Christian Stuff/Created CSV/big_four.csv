@@ -1,0 +1,41 @@
+State,Cause Name,Average Death
+California,Heart disease,63398.58
+California,Cancer,55907.11
+California,Stroke,15495.05
+California,CLRD,13123.58
+California,Unintentional injuries,10945.32
+California,Alzheimer's disease,9614.53
+California,Diabetes,7545.47
+California,Influenza and pneumonia,6736.89
+California,Suicide,3653.89
+California,Kidney disease,2751.21
+Florida,Heart disease,45400.11
+Florida,Cancer,41193.84
+Florida,CLRD,10107.0
+Florida,Stroke,9741.89
+Florida,Unintentional injuries,8854.53
+Florida,Diabetes,5068.58
+Florida,Alzheimer's disease,4833.47
+Florida,Influenza and pneumonia,2764.42
+Florida,Kidney disease,2711.84
+Florida,Suicide,2664.95
+New York,Heart disease,49430.11
+New York,Cancer,35842.0
+New York,CLRD,6873.21
+New York,Stroke,6670.0
+New York,Unintentional injuries,5402.74
+New York,Influenza and pneumonia,4916.63
+New York,Diabetes,3925.95
+New York,Kidney disease,2349.37
+New York,Alzheimer's disease,2321.11
+New York,Suicide,1433.11
+Texas,Heart disease,40993.53
+Texas,Cancer,36135.37
+Texas,Stroke,9915.11
+Texas,Unintentional injuries,9027.89
+Texas,CLRD,8657.21
+Texas,Alzheimer's disease,5353.74
+Texas,Diabetes,5299.89
+Texas,Influenza and pneumonia,3335.79
+Texas,Kidney disease,3180.05
+Texas,Suicide,2716.95
