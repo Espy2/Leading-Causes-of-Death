@@ -5,8 +5,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    
+    <title>About</title>
+
+        
       <!-- Include Leaflet CSS and JavaScript from a CDN -->
       <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
       integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
@@ -16,9 +17,10 @@
       integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
       crossorigin=""></script>
 
-      <link rel="stylesheet" type="text/css" href="style.css">
+      <link rel="stylesheet" type="text/css" href="../static/css/style.css">
       <!-- <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"/> -->
       <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+
 
 
 </head>
@@ -55,77 +57,18 @@
         </div>
       </nav>
 
+<!-- RIP -->
 
-   <!-- Year -->
-   <h5>Year:</h5>
-    <select id="YearDataset">
-        <option value="1999">1999</option>
-        <option value="2000">2000</option>
-        <option value="2001">2001</option>
-        <option value="2002">2002</option>
-        <option value="2003">2003</option>
-        <option value="2004">2004</option>
-        <option value="2005">2005</option>
-        <option value="2006">2006</option>
-        <option value="2007">2007</option>
-        <option value="2008">2008</option>
-        <option value="2009">2009</option>
-        <option value="2010">2010</option>
-        <option value="2011">2011</option>
-        <option value="2012">2012</option>
-        <option value="2013">2013</option>
-        <option value="2014">2014</option>
-        <option value="2015">2015</option>
-        <option value="2016">2016</option>
-        <option value="2017">2017</option>
-    </select>
-
-    <h5>States:</h5>
-    <select id="stateDataset" multiple size="10"></select>
-
-    <!-- Death Rate data type -->
-    <h5>Data Type:</h5>
-    <select id="typeDataset">
-        <option value="Nominal">Nominal</option>
-        <option value="Age Adjusted">Age Adjusted</option>
-
-    </select>
-
-    
-    <h5>Radar Chart:</h5>
-    <canvas id="myRadarChart" width="900" height="900"></canvas>
-
-    <h5>Cause of Death:</h5>
-    <select id="causeOfDeathDataset" multiple size="10">
-        <option value="Heart disease">Heart disease</option>
-        <option value="Cancer">Cancer</option>
-        <option value="Stroke">Stroke</option>
-        <option value="CLRD">CLRD</option>
-        <option value="Unintentional injuries">Unintentional injuries</option>
-        <option value="Alzheimer's disease">Alzheimer's disease</option>
-        <option value="Diabetes">Diabetes</option>
-        <option value="Influenza and pneumonia">Influenza and pneumonia</option>
-        <option value="Kidney disease">Kidney disease</option>
-        <option value="Suicide">Suicide</option>
-
-    </select>
-
-    <h5>Line Chart:</h5>
-    <canvas id="myLineChart" width="900" height="400"></canvas>
-    <!-- Add this button to your HTML for line chart update -->
-    <button id="updateButton">Update Line Chart</button>
+    <!-- Add the image -->
+    <img src="../static/images/RIP.png" alt="Description of your image">
 
 
 <script src="https://d3js.org/d3.v7.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-<script src="statesData.js"></script>
-<script type="text/javascript" src="radartwo.js"></script>
-<script type="text/javascript" src="line.js"></script>
 
 
 
 
 
-
+    
 </body>
 </html>

@@ -153,7 +153,7 @@ function onEachFeature(feature, layer) {
 
 function getStateInfo(stateName) {
     let info = `<strong>${stateName}</strong><br>`;
-    // You can add more data fields as needed
+   
 
     const selectedDataType = d3.select("#typeDataset").property("value");
     const deaths = deathsByState[stateName] || 0;
