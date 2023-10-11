@@ -64,10 +64,23 @@ CORS(app)
 def welcome():
     """List all available api routes."""
     return (
+        
         f"Available Routes:<br/>"
         f"/api/v1.0/radar<br/>"
         f"/api/v1.0/totaldeaths<br/>"
+        f"/Home.html<br/>"
+        f"/indepthlook.html<br/>"
+        f"/regions.html<br/>"
+        f"/RIP.html<br/>"
+        f"/about.html<br/>"
     )
+
+@app.route('/<page_name>')
+def render_html(page_name):
+    try:
+        return render_template(f'{page_name}')
+    except TemplateNotFound:
+        abort(404, description="Page not found")
 
 @app.route("/api/v1.0/radar")
 def radar():
@@ -173,7 +186,6 @@ def states():
         "nominal": total_Nominal_List,
         "AA": total_AA_List
     })
-
 
 
 session.close()

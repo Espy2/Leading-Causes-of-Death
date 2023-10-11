@@ -226,7 +226,7 @@ function onEachFeature(feature, layer) {
 
 function getStateInfo(stateName) {
     let info = `<strong>${stateName}</strong><br>`;
-    // You can add more data fields as needed
+    
 
     const selectedDataType = d3.select("#typeDataset").property("value");
     const deaths = deathsByState[stateName] || 0;
@@ -264,7 +264,7 @@ function updateRegionTotals() {
         regionTotals[region] = calculateRegionTotal(region);
     });
     console.log("Region Totals:", regionTotals);
-    // Update the region totals as needed, e.g., display them on the page
+    
 }
 
 // Attach the change event for the data type dropdown
